@@ -1,0 +1,336 @@
+.museum {
+  position: relative;
+  width: 1920px;
+  height: 6245px;
+  background: #ffffff;
+  /*font-weight: 300;*/
+}
+
+.header {
+  position: absolute;
+  width: 1370px;
+  height: 50px;
+  left: 310px;
+  top: 74px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Logo {
+  position: absolute;
+  width: 195px;
+  height: 50px;
+  left: -70px;
+  top: 0px;
+}
+
+.Louvre {
+  position: absolute;
+  width: 125px;
+  height: 50px;
+  left: 70px;
+  top: 0px;
+
+  font-family: Forum;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 50px;
+  /* identical to box height, or 179% */
+
+  letter-spacing: 5px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+  z-index: 2;
+}
+
+.Frame {
+  position: absolute;
+  width: 50px;
+  height: 34px;
+  left: 0px;
+  top: 9px;
+
+  border-radius: 0px;
+}
+
+.Vector {
+  position: absolute;
+  left: 0%;
+  right: 2%;
+  top: 0%;
+  bottom: 23.53%;
+  background: #000000;
+  z-index: 2;
+}
+
+.welcome {
+  position: relative;
+  width: 1920px;
+  height: 750px;
+  background: #000000;
+  z-index: 2;
+}
+
+.Navigation {
+  position: absolute;
+  width: 720px;
+  height: 50px;
+  left: 650px;
+  top: 0px;
+}
+
+.Visiting {
+  position: absolute;
+  width: 85px;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 22px;
+  line-height: 50px;
+  /* identical to box height, or 227% */
+
+  letter-spacing: 2px;
+
+  color: #ffffff;
+  z-index: 2;
+}
+
+.Explore {
+  position: absolute;
+  width: 84px;
+  height: 50px;
+  left: 161px;
+  top: 0px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 22px;
+  line-height: 50px;
+  /* identical to box height, or 227% */
+
+  letter-spacing: 2px;
+
+  color: #ffffff;
+  z-index: 2;
+}
+
+.Video {
+  position: absolute;
+  width: 63px;
+  height: 50px;
+  left: 321px;
+  top: 0px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 22px;
+  line-height: 50px;
+  /* identical to box height, or 227% */
+
+  letter-spacing: 2px;
+
+  color: #ffffff;
+  z-index: 2;
+}
+
+.Tickets {
+  position: absolute;
+  width: 82px;
+  height: 50px;
+  left: 460px;
+  top: 0px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 22px;
+  line-height: 50px;
+  /* identical to box height, or 227% */
+
+  letter-spacing: 2px;
+
+  color: #ffffff;
+  z-index: 2;
+}
+.Contacts {
+  position: absolute;
+  width: 102px;
+  height: 50px;
+  left: 618px;
+  top: 0px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 22px;
+  line-height: 50px;
+  /* identical to box height, or 227% */
+
+  letter-spacing: 2px;
+
+  color: #ffffff;
+  z-index: 2;
+}
+
+.BG_header {
+  position: absolute;
+  width: 1920px;
+  height: 200px;
+  left: -310px;
+  top: -74px;
+
+  background: #030303;
+  border-radius: 0px;
+  z-index: 1;
+}
+
+.main {
+  position: absolute;
+  width: 1440px;
+  height: 5556px;
+  left: 240px;
+  top: 314px;
+}
+
+.Welcome_to_the_louvre {
+  position: absolute;
+  width: 598px;
+  height: 390px;
+  left: 0px;
+  top: 0px;
+}
+
+.Welcome {
+  position: absolute;
+  width: 380px;
+  height: 90px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Forum;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 90px;
+  /* identical to box height, or 112% */
+
+  letter-spacing: 5px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+  z-index: 3;
+}
+
+.to_the_Louvre {
+  position: absolute;
+  width: 598px;
+  height: 90px;
+  left: 0px;
+  top: 90px;
+
+  font-family: Forum;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 90px;
+  /* identical to box height, or 112% */
+
+  letter-spacing: 5px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+  z-index: 3;
+}
+
+.From_the_castle_to_the_museum {
+  position: absolute;
+  width: 445px;
+  height: 33px;
+  left: 0px;
+  top: 206px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 33px;
+  /* identical to box height */
+
+  letter-spacing: 2px;
+
+  color: #ffffff;
+}
+
+.Button {
+  position: absolute;
+  width: 360px;
+  height: 75px;
+  left: 0px;
+  top: 315px;
+}
+
+.Discover_the_Louvre {
+  position: absolute;
+  width: 360px;
+  height: 75px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 22px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 2px;
+
+  color: #ffffff;
+  z-index: 3;
+}
+
+.Rectangle {
+  position: absolute;
+  width: 360px;
+  height: 75px;
+  left: 0px;
+  top: 0px;
+
+  background: #710707;
+  border-radius: 10px;
+  z-index: 2;
+}
+
+.background {
+  position: absolute;
+  width: 1215px;
+  height: 750px;
+  left: 465px;
+  top: -114px;
+  z-index: 2;
+}
+
+.BG_Welcome_to_the_louvre {
+  position: absolute;
+  width: 1920px;
+  height: 750px;
+  left: -240px;
+  top: -114px;
+
+  background: #030303;
+  border-radius: 0px;
+  z-index: 1;
+}

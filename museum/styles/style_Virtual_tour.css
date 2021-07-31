@@ -1,0 +1,56 @@
+.Virtyal_tour {
+  position: absolute;
+  width: 1440px;
+  height: 1115px;
+  left: 0px;
+  top: 711px;
+}
+
+.text_Virtyal_tour {
+  position: absolute;
+  width: 544px;
+  height: 90px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Forum;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 90px;
+  /* identical to box height, or 112% */
+
+  letter-spacing: 5px;
+  text-transform: uppercase;
+
+  color: #9d8665;
+}
+
+.Rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 3px;
+  left: 0px;
+  top: 115px;
+
+  background: #710707;
+  border-radius: 0px;
+}
+
+.Royal_Palace {
+  position: absolute;
+  width: 440px;
+  height: 422px;
+  left: 0px;
+  top: 193px;
+}
+
+.photo_Royal_Palace {
+  position: absolute;
+  width: 440px;
+  height: 285px;
+  left: 0px;
+  top: 0px;
+
+  border-radius: 0px;
+}
