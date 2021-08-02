@@ -1,0 +1,53 @@
+.section_explore-section {
+  background: #030303;
+  height: 865px;
+  padding-top: 75px;
+  margin-top: 75px;
+}
+
+.text_picture_explore {
+  width: 660px;
+
+  color: #ffffff;
+}
+
+.line_explore {
+  width: 660px;
+  margin-top: 25px;
+  height: 3px;
+  background: #710707;
+  border-radius: 0px;
+}
+
+.text_explore {
+  width: 660px;
+  height: 77px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 38px;
+  /* or 175% */
+
+  color: #ffffff;
+}
+
+.text_explore1 {
+  padding-top: 75px;
+}
+
+.text_explore2 {
+  padding-top: 25px;
+}
+
+.text_explore3 {
+  padding-top: 25px;
+}
+
+.picture {
+  width: 720px;
+  height: 700px;
+  padding-left: 300px;
+  top: 0;
+}
